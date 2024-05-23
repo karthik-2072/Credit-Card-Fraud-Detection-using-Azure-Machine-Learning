@@ -1,0 +1,17 @@
+{
+    "class_name": "RandomForestClassifier",
+    "module": "sklearn.ensemble",
+    "param_args": [],
+    "param_kwargs": {
+        "bootstrap": true,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_features": "log2",
+        "min_samples_leaf": 0.01,
+        "min_samples_split": 0.01,
+        "n_estimators": 10,
+        "oob_score": false
+    },
+    "prepared_kwargs": {},
+    "spec_class": "sklearn"
+}
